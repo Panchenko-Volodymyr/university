@@ -86,8 +86,3 @@ For Subject:
 - POST - /subjects  add student to DB.
 - PUT  - /subjects/{id} update student in DB.
 - DELETE - /subjects/{id} delete student from DB.
-
-***
-
-### Things that we need to do for correct working application:
-*  
