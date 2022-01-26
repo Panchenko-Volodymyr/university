@@ -1,4 +1,4 @@
-#University - project
+# University - project
 It is a simple university project.
 That give you opportunity to find out which subjects do you have in specified day
 
