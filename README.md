@@ -86,3 +86,8 @@ For Subject:
 - POST - /subjects  add student to DB.
 - PUT  - /subjects/{id} update student in DB.
 - DELETE - /subjects/{id} delete student from DB.
+
+***
+
+### Command for downloading docker:
+```docker pull 99128755/university```
